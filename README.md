@@ -10,7 +10,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Adenrele's Twitter"/>
   </a>
-  <a href="your-Gmail-URL">
+  <a href="mailto:kofoworola.onikosi@gmail.com?subject="subject text">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Adenrele's Gmail"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=adenreleonikosi&style=flat-square&color=orange" alt=""/>
