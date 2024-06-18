@@ -20,10 +20,10 @@
 
 ### :man_technologist: About Me :
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, React.
+- 💡 Fun fact: I'm currently studying at .
+- 🌱 I’m currently learning Microsoft Azure.
 - 📝 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Cloud Engineer, or UI Engineer (Intern or Junior level).
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
